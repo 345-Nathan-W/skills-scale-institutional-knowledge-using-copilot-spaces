@@ -23,6 +23,9 @@ Maintain a simple table with:
 - Identify stakeholder groups and communication needs (e.g., engineering, sales, support)
 - Provide regular updates (weekly or milestone-based)
 - Use a single source of truth (project README or release doc) for status
+- For significant changes, the **Change Manager** coordinates formal approval and stakeholder notifications before the change is deployed
+
+*See also:* [Roles & Personas — Change Manager](octoacme-roles-and-personas.md), [Cross-functional Touchpoints Checklist](octoacme-cross-functional-checklist.md)
 
 ## Communication Templates
 Weekly Status Template:
